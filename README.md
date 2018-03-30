@@ -1,6 +1,6 @@
 # React testing env (Enzyme && Jest)
 
-#### Jest enzyme testing environment
+#### Jest enzyme testing environment
 
 ## Author
 
